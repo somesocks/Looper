@@ -1,0 +1,21 @@
+{
+  "name": "Looper",
+  "version": "0.0.1",
+  "description": "A little convenience wrapper around JS window.setTimeout",
+  "main": "Looper.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/somesocks/Looper.git"
+  },
+  "keywords": [
+    "looper",
+  ],
+  "author": "James Larsen (somesocks@gmail.com)",
+  "license": "Apache v2",
+  "bugs": {
+    "url": "https://github.com/somesocks/Looper/issues"
+  },
+  "homepage": "https://github.com/somesocks/Looper"
+}
